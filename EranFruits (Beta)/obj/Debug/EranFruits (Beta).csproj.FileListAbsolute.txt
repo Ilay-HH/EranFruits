@@ -1,0 +1,78 @@
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\EranFruits (Beta).exe.config
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\EranFruits (Beta).exe
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\EranFruits (Beta).pdb
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csprojAssemblyReference.cache
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\MainWindow.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\PlaceOrder.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\App.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_MarkupCompile.cache
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_MarkupCompile.lref
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\MainWindow.baml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\PlaceOrder.baml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).g.resources
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits__Beta_.Properties.Resources.resources
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.GenerateResource.cache
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.CoreCompileInputs.cache
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).exe
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).pdb
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\mongocrypt.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\snappy32.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\snappy64.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\libzstd.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\DnsClient.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Bson.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Driver.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\SharpCompress.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\System.Buffers.dll
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\DnsClient.xml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Bson.xml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Driver.xml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\bin\Debug\System.Buffers.xml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_Content.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.CopyComplete
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\OrderInfo.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\OrderInfo.baml
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\OrderShowcase.g.cs
+C:\Users\ilayh\source\repos\EranFruits (Beta)\EranFruits (Beta)\obj\Debug\OrderShowcase.baml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\mongocrypt.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\snappy32.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\snappy64.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\libzstd.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\EranFruits (Beta).exe.config
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\EranFruits (Beta).exe
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\EranFruits (Beta).pdb
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\DnsClient.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Bson.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Driver.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\SharpCompress.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\System.Buffers.dll
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\DnsClient.xml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Bson.xml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Driver.xml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\bin\Debug\System.Buffers.xml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csprojAssemblyReference.cache
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\MainWindow.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\OrderInfo.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\OrderShowcase.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\PlaceOrder.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\App.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_Content.g.cs
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_MarkupCompile.cache
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta)_MarkupCompile.lref
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\MainWindow.baml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\OrderInfo.baml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\OrderShowcase.baml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\PlaceOrder.baml
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).g.resources
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits__Beta_.Properties.Resources.resources
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.GenerateResource.cache
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.CoreCompileInputs.cache
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).csproj.CopyComplete
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).exe
+C:\Users\ilayh\Documents\תכנות\Projects\Project Folders\EranFruits-master\EranFruits-master\EranFruits (Beta)\obj\Debug\EranFruits (Beta).pdb

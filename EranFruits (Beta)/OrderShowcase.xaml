@@ -1,0 +1,37 @@
+﻿<Window x:Class="EranFruits__Beta_.OrderShowcase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EranFruits__Beta_"
+        mc:Ignorable="d"
+        Title="OrderShowcase" Background="LightGray" Height="550" Width="450">
+    <Grid>
+        <Label Content="הצגת הזמנות" HorizontalAlignment="Center" FontWeight="Bold" FontSize="28" FontFamily="Verdana" />
+        <Grid Margin="40">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="1" Content="בחר איזור זמן" HorizontalAlignment="Center" FontSize="16" />
+            <ComboBox Grid.Row="1" Grid.Column="1" Name="TimePicker" Width="150" SelectionChanged="TimePicker_SelectionChanged" />
+            <ListBox Name="OrderDisplay" Grid.Row="2" Grid.Column="1" MouseDoubleClick="OrderDisplay_MouseDoubleClick"  >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <WrapPanel FlowDirection="RightToLeft">
+                            <TextBlock Text="{Binding NameOfOrder}" TextAlignment="Right" Margin="5,0" />
+                            <TextBlock Text="{Binding Size}" TextAlignment="Right" Margin="5,0" />
+                            <TextBlock Text="{Binding OrderAdress}" TextAlignment="Right" Margin="5,0" />
+                        </WrapPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+    </Grid>
+</Window>

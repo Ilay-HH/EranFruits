@@ -1,0 +1,59 @@
+﻿<Window x:Class="EranFruits__Beta_.OrderInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EranFruits__Beta_"
+        mc:Ignorable="d"
+        Title="OrderInfo" Background="LightGray" Height="400" Width="600">
+    <Grid>
+        <Label HorizontalAlignment="Center" FontSize="25" Content="?האם אתה מאשר את תוכן ההזמנה" />
+        <Button Click="OrderConfirm_Click" Name="OrderConfirm" Content="אני מאשר" Margin="0, 330, 350, 0" />
+        <Button Click="OrderChange_Click" Name="OrderChange" Content="אני רוצה לשנות" Margin="350, 330, 0, 0" />
+        <Grid Margin="50">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="גודל מגש" />
+        <Label Grid.Row="1" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="תאריך משלוח" />
+        <Label Grid.Row="2" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="שעת משלוח" />
+        <Label Grid.Row="3" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="תאריך הזמנה" />
+        <Label Grid.Row="4" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="שם המזמין" />
+        <Label Grid.Row="5" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="טלפון המזמין" />
+        <Label Grid.Row="6" Grid.Column="3"  VerticalAlignment="Center" FontSize="18" Content="שם המקבל" />
+        <TextBlock Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" Name="SizeInfo" />
+        <TextBlock Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Name="DDInfo" />
+        <TextBlock Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Name="DTInfo" />
+        <TextBlock Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" Name="ODInfo" />
+        <TextBlock Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" Name="NOOInfo" />
+        <TextBlock Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" Name="OrderPnInfo" />
+        <TextBlock Grid.Row="6" Grid.Column="2" VerticalAlignment="Center" Name="NORInfo" />
+
+            <Label Grid.Row="0" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content="טלפון המקבל" />
+            <Label Grid.Row="1" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content=":כתובת משלוח" />
+            <Label Grid.Row="2" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content=":מחיר מגש" />
+            <Label Grid.Row="3" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content=":מחיר משלוח" />
+            <Label Grid.Row="4" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content=":פתק" />
+            <Label Grid.Row="5" Grid.Column="1"  VerticalAlignment="Center" FontSize="18" Content="?הפתעה" />
+            <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Name="RecieverPnInfo" />
+            <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Name="AdressInfo" />
+            <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Name="OrderPriceInfo" />
+            <TextBlock Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" Name="DeliveryPriceInfo" />
+            <TextBlock Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" Name="NoteInfo" />
+            <TextBlock Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" Name="SurpriseInfo" />
+
+        </Grid>
+    </Grid>
+</Window>
